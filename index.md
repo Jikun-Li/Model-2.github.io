@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! This is Jikun Li's homepage. I am a pure mathematics student at Peking University, currently interested in stable homotopy theory, especially chromatic homotopy theory.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  You can contact me in the following ways and see my current work in the work column.
 </p>
